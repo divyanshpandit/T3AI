@@ -43,7 +43,7 @@ Copy code
 
 git clone https://github.com/divyanshpandiit/T3AI.git
 
-cd tic-tac-toe-ai
+cd tic-toc-toe-ai
 
 Make sure Python 3 is installed on your system.
 
